@@ -1,6 +1,6 @@
 [package]
 name = "anpr-wiegand"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
 rust-version = "1.85"
 authors = ["Lorent Lempereur <lorent.lempereur.dev@gmail.com>"]
